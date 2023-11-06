@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulário HTML</title>
+</head>
+<body>
+    <section>
+        <form action="#" method="post">
+            <label for="usu">Usuário</label>
+            <input type="text" name="usu" id="usu" placeholder="use apenas minúsculas" minlength="5" maxlength="20" size="12" required>
+
+            <label for="sen">Senha</label>
+            <input type="password" name="sen" id="sen" placeholder="use apenas letras" minlength="7" maxlength="20" size="10" required>
+
+            <input type="checkbox" name="logado" id="logado" checked>
+            <label for="logado">Mantenha-me sempre conectado.</label>
+
+            <input type="submit" value="Entrar">
+            <input type="reset" value="Limpar">
+        </form>
+    </section>
+</body>
+</html>

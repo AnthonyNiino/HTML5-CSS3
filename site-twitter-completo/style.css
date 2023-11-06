@@ -1,0 +1,49 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+    background-color: cornflowerblue;
+    background-image: url("imagens/twitter-wallpaper.jpeg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+main {
+    max-width: 600px;
+    background-color: white;
+    padding: 15px;
+    margin: 20px auto;
+    border-radius: 10px;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.468);
+}
+
+picture {
+    display: block;
+}
+
+picture img {
+    display: block;
+    margin: auto;
+}
+
+div.filme {
+    /* Colocamos, mas não precisou usar! */
+}
+
+div.filme > video {
+    width: 100%;
+    border-radius: 10px;
+}
+
+p {
+    line-height: 1.5em;
+    text-align: justify;
+    text-indent: 2em;
+}
+
+h1 {
+    color: #33CCFF;
+}

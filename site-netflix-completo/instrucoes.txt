@@ -1,0 +1,14 @@
+Itens que serão considerados para a avaliação:
+
+- Colocar o favicon no título do navegador.
+- Imagem de fundo com rolagem fixada e adaptação ao tamanho da tela.
+- Configurar a divisão dos blocos de acordo com o que está apresentado no site completo.
+- Divisões devem se adaptar automaticamente à largura da tela até o limite de 600px. Depois disso, o conteúdo será centralizado.
+- Mudar a fonte padrão do site para a família Verdana.
+- Configurar os parágrafos, com espaçamentos de 1.5 entre linhas.
+- Parágrafos com texto de alinhamento justificado.
+- Imagens que ocupam a largura total do site devem diminuir para telas com largura menor.
+- Imagens que ficam alinhadas na lateral devem ter uma margem de segurança para que o conteúdo não fique muito próximo.
+- Títulos e elementos em negrito devem estar na cor darkred.
+- Lista com marcadores na última sessão do site.
+- Nome e turma do aluno no rodapé do site.
